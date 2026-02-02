@@ -219,3 +219,26 @@ Privacy-preserving cross-border agricultural intelligence:
 ---
 
 > **🌱 Vision:** Every smallholder farmer equipped with AI-powered climate resilience, accessible through open-source technology and natural language interfaces.
+
+---
+
+## 👨‍💼 Author
+
+<table>
+  <tr>
+    <td>
+      <a href="https://kngo.netlify.app/">
+        <img src="images/profile.png" alt="NGO TRUNG KIEN" width="120" style="border-radius: 50%;">
+      </a>
+    </td>
+    <td>
+      <strong>NGÔ TRUNG KIÊN</strong><br>
+      🌐 <a href="https://kngo.netlify.app/">kngo.netlify.app</a><br>
+      📧 kiennt@hsb.edu.vn<br>
+      🏫 Hanoi School of Business and Management (HSB)<br>
+      📱 Faculty: Non-Traditional Security
+    </td>
+  </tr>
+</table>
+
+---
